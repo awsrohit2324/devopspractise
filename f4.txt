@@ -1,3 +1,7 @@
 This is 4th file.
 This is 2nd line.
 This is 3rd line.
+This is 4th file from f4.txt.
+This is 4th file content.
+Here is how solution for merge conflit situation.
+
